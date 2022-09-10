@@ -17,7 +17,7 @@ Hi, I'm Raafat&nbsp </b>
 <h4 align="left"><img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="30px"> &nbsp A Passionate Web Developer </h4>
 <div align="left">
     <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px"> About me:</h3>
-        <p>• 💻 A good team player looking forward to a friendly work environment</p>
+   <p>• 💻 A good team player looking forward to a friendly work environment</p>
   <p>• ℹ️ Enjoys new challenges and problem-solving opportunities</p>
     <p>• 💬 Ask me about anything related to <b>Javascript, React, Express, REST</b></p>
            <p>• 📚 I’m currently learning: <b>Typescript, Next, Tailwind, GraphQL</b></p>

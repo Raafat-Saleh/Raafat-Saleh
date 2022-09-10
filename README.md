@@ -10,7 +10,7 @@ Hi, I'm Raafat&nbsp </b>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="200" height="350" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="200" height="360" width="385" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 

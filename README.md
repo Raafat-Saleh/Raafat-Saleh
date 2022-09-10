@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=MERN+Stack+Developer;Front+End+Developer;&center=true&width=380&height=39">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=MERN+Stack+Developer;Front+End+Developer;&center=true&width=330&height=39">
 </p>
 
 <h3 align="left">  <b>
@@ -10,7 +10,7 @@ Hi, I'm Raafat&nbsp </b>
 
 
 <a target="_blank" align="center">
-  <img align="right" top="20" height="280" width="370" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="20" height="270" width="370" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
@@ -81,7 +81,7 @@ Hi, I'm Raafat&nbsp </b>
 
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <a href="#">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>

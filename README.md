@@ -32,12 +32,12 @@ Hi, I'm Raafat&nbsp </b>
 
 <h3>👨‍💻 Web Development &nbsp <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "22px"> </h3>
 <p>
-        <img src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />
-         <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"  alt="CSS3" title="CSS3" height="25" >
-  <img src="https://img.shields.io/badge/Sass%20-%23E34F26.svg?logo=Sass&logoColor=white" alt="Sass" title="Sass" height="25" />
-        <img src="https://img.shields.io/badge/PostCSS-282C34?logo=PostCSS&logoColor=white" alt="PostCSS" title="PostCSS" height="25" />
-        <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" height="25" />
-        <img src="https://img.shields.io/badge/TypeScript%20-%231572B6.svg?logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" height="25" />
+      <a href="#">    <img src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />   </a>
+      <a href="#">     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"  alt="CSS3" title="CSS3" height="25" > </a>
+      <a href="#">   <img src="https://img.shields.io/badge/Sass%20-%23E34F26.svg?logo=Sass&logoColor=white" alt="Sass" title="Sass" height="25" /> </a>
+        <a href="#">  <img src="https://img.shields.io/badge/PostCSS-282C34?logo=PostCSS&logoColor=white" alt="PostCSS" title="PostCSS" height="25" /> </a>
+        <a href="#">  <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" height="25" /> </a>
+        <a href="#">  <img src="https://img.shields.io/badge/TypeScript%20-%231572B6.svg?logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" height="25" /></a>
 </p>
 
 <h3>🧰 Frameworks and Libraries &nbsp <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png" width="22px"></h3>

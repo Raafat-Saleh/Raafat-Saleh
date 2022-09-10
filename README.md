@@ -99,6 +99,6 @@ Hi, I'm Raafat&nbsp </b>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Raafat-Saleh">
 		<img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 		   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ra-f-at-5b31ba215/">
-			<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+			 <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
       </div>
 </p>

@@ -1,36 +1,36 @@
 <p align="center">
-   <a href="#-about-me"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=MERN+Stack+Developer;Front+End+Developer;&center=true&width=330&height=39"></a>
+   <a href="#--hi-im-raafat---"> <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=MERN+Stack+Developer;Front+End+Developer;&center=true&width=330&height=39"></a>
 </p>
 
 <h3 align="left">  <b>
 Hi, I'm Raafat&nbsp </b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  <a href="#--hi-im-raafat---"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></a>
 </h3>
-<p><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="50%" align="left"></p>
+<p>  <a href="#--hi-im-raafat---"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="50%" align="left"> </a></p>
 
 
-<a target="_blank" align="center">
+<a align="center" href="#--hi-im-raafat---">
   <img align="right" top="200" height="355" width="385" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
-<h4 align="left"><img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="30px"> &nbsp A Passionate Web Developer </h4>
+<h4 align="left"> <a href="#--hi-im-raafat---"><img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="30px"></a> &nbsp A Passionate Web Developer </h4>
 <div align="left">
-    <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px"> About me:</h3>
+    <h3> <a href="#--hi-im-raafat---"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px"></a> About me:</h3>
    <p>• 💻 A good team player looking forward to a friendly work environment</p>
   <p>• ℹ️ Enjoys new challenges and problem-solving opportunities</p>
     <p>• 💬 Ask me about anything related to <b>Javascript, React, Express, REST</b></p>
            <p>• 📚 I’m currently learning: <b>Typescript, Next, Tailwind, GraphQL</b></p>
 <p> • ❄️ I’m looking to collaborate on <b>Open Source Projects</b></p>
         <p>• 📫 How to reach me: <b>rafat.saleh1313@gmail.com</b></p>
-</div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+</div> <a href="#--hi-im-raafat---">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"></a>
 
 
 
-<h3><b> 🛠️ <b>My Favorite Tools</b> </b> <img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></h3>
+<h3><b> 🛠️ <b>My Favorite Tools</b> </b><a href="#-%EF%B8%8F-my-favorite-tools--"> <img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></a></h3>
 
-<h3>👨‍💻 Web Development &nbsp <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "22px"> </h3>
+<h3>👨‍💻 Web Development &nbsp<a href="#-%EF%B8%8F-my-favorite-tools--"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "22px"></a> </h3>
 <p>
       <a href="#-%EF%B8%8F-my-favorite-tools--">    <img src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" title="HTML5" height="25" />   </a>
       <a href="#-%EF%B8%8F-my-favorite-tools--">     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"  alt="CSS3" title="CSS3" height="25" > </a>
@@ -40,7 +40,7 @@ Hi, I'm Raafat&nbsp </b>
         <a href="#-%EF%B8%8F-my-favorite-tools--">  <img src="https://img.shields.io/badge/TypeScript%20-%231572B6.svg?logo=TypeScript&logoColor=white" alt="TypeScript" title="TypeScript" height="25" /></a>
 </p>
 
-<h3>🧰 Frameworks and Libraries &nbsp <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png" width="22px"></h3>
+<h3>🧰 Frameworks and Libraries &nbsp<a href="#-%EF%B8%8F-my-favorite-tools--"> <img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png" width="22px"></a></h3>
 <p>
     <a href="#-%EF%B8%8F-my-favorite-tools--">  
       <img src="https://img.shields.io/badge/React-0078ff.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" title="React" height="25" /></a>
@@ -57,7 +57,7 @@ Hi, I'm Raafat&nbsp </b>
         <img src="https://img.shields.io/badge/React_Native-0078a0.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React_Native" title="React_Native" height="25" /> </a>
 </p>
 
-<h3>🗄️ Databases and Cloud Hosting &nbsp <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="70"/></h3>
+<h3>🗄️ Databases and Cloud Hosting &nbsp <a href="#-%EF%B8%8F-my-favorite-tools--"><img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="70"/></a></h3>
 <p>
    <a href="#-frameworks-and-libraries--"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?logo=MongoDB&logoColor=white" title="MongoDB" height="25" ></a>
      <a href="#-frameworks-and-libraries--">   <img src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" alt="SQL" title="SQL" height="25" />
@@ -68,7 +68,7 @@ Hi, I'm Raafat&nbsp </b>
   <a href="#-frameworks-and-libraries--"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" alt="GitHub Pages" title="GitHub Pages" height="25" ></a>
     <a href="#-frameworks-and-libraries--"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white" title="Firebase" height="25" ></a>
 </p>
-<h3>👉 Software and Tools &nbsp<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3>👉 Software and Tools &nbsp<a href="#-frameworks-and-libraries--"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 <p>
       <a href="#%EF%B8%8F-databases-and-cloud-hosting--"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white" alt="Adobe" title="Adobe" height="25" ></a>
     <a href="#%EF%B8%8F-databases-and-cloud-hosting--">
@@ -87,8 +87,8 @@ Hi, I'm Raafat&nbsp </b>
 </div>
 
 
-<h3 align="center" ><b>Connect with me</b> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"></h3>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
+<h3 align="center" ><b>Connect with me</b> <a href="#%EF%B8%8F-databases-and-cloud-hosting--"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"></a></h3>
+<a href="#%EF%B8%8F-databases-and-cloud-hosting--"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"></a>
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">

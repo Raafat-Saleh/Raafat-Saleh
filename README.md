@@ -19,7 +19,7 @@ Hi, I'm Raafat&nbsp </b>
     <h3> <a href="#--hi-im-raafat---"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="22px"></a> About me:</h3>
    <p>• 💻 A good team player looking forward to a friendly work environment</p>
   <p>• ℹ️ Enjoys new challenges and problem-solving opportunities</p>
-    <p>• 💬 Ask me about anything related to <b>Javascript, React, MongoDB, Node</b></p>
+    <p>• 💬 Ask me about anything related to <b>Javascript, React, Node</b></p>
            <p>• 📚 I’m currently learning: <b>Typescript, Next, GraphQL</b></p>
 <p> • ❄️ I’m looking to collaborate on <b>Open Source Projects</b></p>
         <p>• 📫 How to reach me: <b>rafat.saleh1313@gmail.com</b></p>
